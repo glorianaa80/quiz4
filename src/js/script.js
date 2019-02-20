@@ -18,7 +18,6 @@ function tabs(evt, tab) {
 
 
 // ACORDEON
-alert(acc)
 const acc = document.getElementsByClassName('acordeon').style.maxWidth = '600px';
 let i;
 

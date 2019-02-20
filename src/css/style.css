@@ -20,8 +20,17 @@
   padding: 10px;
   text-decoration: none; }
 
+.tabs--nav-section-option-link:nth-child(3) {
+  color: green;
+  float: right;
+  margin-right: 30%;
+  margin-top: -290px; }
+
 .tab:nth-child(3) {
   display: none; }
+
+.tab:nth-child(4) {
+  color: green; }
 
 @media (max-width: 600px) {
   .tabs--nav-section-option {
