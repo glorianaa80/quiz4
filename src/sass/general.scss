@@ -1,0 +1,55 @@
+$breakpoint-md: 600px;
+
+
+.container{
+	padding: 0;
+	margin: 0;
+}
+.header{}
+.header--title{}
+.header--subtitle{}
+.tabs{}
+.tabs--nav-section{
+	padding: 0;
+	padding: 0;
+}
+.tabs--nav-section-option{
+	display: inline-block;
+}
+.tabs--nav-section-option + .tabs--nav-section-option{
+	margin-left: 30px;
+}
+.tabs--nav-section-option-link {
+	border: 1px solid black;
+	color: red;
+	display: inline-block;
+	margin-top: 10px;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.tab {}
+.tab:nth-child(3){
+  display: none;
+}
+
+.tab1--text{}
+.tab1--btn{}
+.tab1--btn-link{}
+.tab1--numerical-list{}
+.tab1--numerical-list-section{}
+.tab1--numerical-list-section-option{}
+.tab1--reserved{}
+.tab2--numerical-list{}
+.tab2--numerical-list-section-option{}
+.tab2--shipping{}
+.tab2--shipping-messy-lis{}
+.tab2--shipping-messy-list-text{}
+.tab2--shipping-safe{}
+.tab2--shipping-safe-sure{}
+.tab2--shipping-safe-sure-text{}
+.tab2--shipping-safe-text{}
+.tab2--address{}
+.tab2--address-tex{}
+.footer{}
+.footer--text{}
