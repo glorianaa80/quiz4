@@ -1,0 +1,11 @@
+﻿1. Voy a cambiarle las clases a todo.
+2. Todo va a estar envuelto por un div.
+3. En la parte del h2 y el p los voy agrupar en un solo div par tener mas orden a la hora de acomodarlo.
+4. En el tabs.html en que tiene la clase de ui-tabs-nav lo voy a modificar solo con una ul, li y dentro de estos un a  y precio y con una clases en css le doy el bold.
+5. En la parte del id tabs-1 los p que contiene les voy a poner una clase.
+6. En la  clase shipping-print-action  en vez de lo que hay que es un p y un a lo que voy a hacer es un button con un a adentro.
+7. En la sección de la clase steps a es div le cambiaría la clase y haría que lo que está adentro sería una ol.
+8. En el id tabs-2 igual que en el tabs-1 la parte se steps lo modificaria con una ol.
+9. El div con la clase left-col le cambiaría la clase y envolveria el ul en div y tomaría el div con la  clase rma-box y al span con la clase tiny el cual cambiaría por un p  lo meteria en el mismo div al que la cambie la clase de  left-col y en la parte de los estilos los flotaria.
+10. Y haría un nuevo div donde meteria la información que contiene address pero eliminando que en su primer p tenga un b y poniéndole una clase para en los estilos ponerle el bold.
+11. En el p con la clase notice lo dejaría como está.
